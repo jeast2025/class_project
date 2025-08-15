@@ -1,1 +1,1 @@
-# class_project
+# Web Design Extravaganza
