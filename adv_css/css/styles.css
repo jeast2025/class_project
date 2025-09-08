@@ -1,0 +1,139 @@
+body {
+    background-color: #3E4E41;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+a {
+    color: #3E4E41;
+}
+
+a:hover {
+    color:#F2E1AE;
+    text-decoration: none;
+}
+
+#container {
+    background-color: #BF9B7A;
+    width: 65%;
+    margin: 20px auto;
+    border: 4px solid #F2E1AE;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 40px;
+    border-bottom: 2px solid #3E4E41;
+}
+
+header h1 {
+    font-size: 50px;
+    color: #F2E1AE;
+    text-shadow: 2px 2px 2px #403328;
+}
+
+nav {
+    text-align: center;  
+    border-bottom: 2px solid #3E4E41;
+}
+
+nav ul{
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    display: block;
+    background-color: #403328;
+    color:#F2E1AE;
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 25px;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 2px solid #3E4E41;
+}
+
+nav li a:hover {
+    color: #BF9B7A;
+    background-color: #3E4E41;
+}
+
+main h2 {
+    font-size: 30px;
+    color: #F2E1AE;
+    text-shadow: 2px 2px 2px #403328;
+}
+
+main h3 {
+    font-size: 40px;
+    color: #F2E1AE;
+    text-shadow: 2px 2px 2px #403328;
+}
+
+.multi_col {
+    display: flex;
+}
+
+section, aside {
+    border-radius: 20px;
+    border: 2px solid #F2E1AE;
+    margin: 20px;
+    padding: 20px;
+}
+
+section {
+    width: 75%;
+}
+
+aside {
+    width: 25%;
+}
+
+section img {
+    border-radius: 10px;
+    border: 2px solid #F2E1AE;
+    width: 75%;
+}
+
+footer {
+    padding: 40px 0;
+    text-align: center;
+}
+
+.img_style {
+    width: 75%;
+    border: 2px solid #F2E1AE;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #3E4E41;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+hr {
+    border: 2px solid #F2E1AE;
+}
+
+iframe {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    border: 2px solid #F2E1AE;
+    width: 65%;
+    height: 450px;
+}
+
+.contact_content {
+    text-align: center;
+}
