@@ -137,3 +137,16 @@ iframe {
 .contact_content {
     text-align: center;
 }
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    color: #F2E1AE;
+    text-shadow: 2px 2px 2px #403328;
+}
+h3 {
+    text-align: center;
+    font-size: 30px;
+    color: #F2E1AE;
+    text-shadow: 2px 2px 2px #403328;
+}
